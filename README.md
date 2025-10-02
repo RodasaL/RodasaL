@@ -16,7 +16,7 @@ Estou a desenvolver competências em *Python, CI/CD, Infrastructure as Code, aut
 ---
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/teu-username](https://www.linkedin.com/in/rodrigo-lourenco-14c/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-lourenco-14c/)
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodasaL)
 
 ---
