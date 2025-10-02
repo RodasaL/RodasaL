@@ -26,9 +26,9 @@ Estou a desenvolver competências em *Python, CI/CD, Infrastructure as Code, aut
 - *Cloud & DevOps:* AWS , CI/CD (GitHub Actions, CodePipeline)  
 - *Infraestrutura como Código:* CloudFormation, CDK, SAM  
 - *Containers & Deploy:* Docker, Kubernetes (básico)  
-- * Segurança:* CloudWatch, X-Ray, Secrets Manager, KMS  
-- *Colaboração & Controlo de Versão:* Git, GitHub, Agile (Scrum/Kanban)  
+- *Segurança:* CloudWatch, X-Ray, Secrets Manager, KMS  
+- *Colaboração & Controlo de Versões:* Git, GitHub, Agile (Scrum/Kanban)  
 
 ---
 
-⚡ "Aprender, automatizar e integrar — sempre com foco em Cloud & DevOps."
+
