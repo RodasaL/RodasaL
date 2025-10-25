@@ -27,4 +27,9 @@ I’m developing skills in *Python, CI/CD, Infrastructure as Code, automation, a
 - *Infrastructure as Code:* CloudFormation, CDK, SAM  
 - *Containers & Deployment:* Docker, Kubernetes (basic)  
 - *Security:* CloudWatch, X-Ray, Secrets Manager, KMS  
-- *Collaboration & Version Control:* Git, GitHub, Agile (Scrum/Kanban)  
+- *Collaboration & Version Control:* Git, GitHub, Agile (Scrum/Kanban)
+  
+---
+## Improving My Knoledge of Linux 
+
+https://github.com/user-attachments/assets/c59b52b5-c74b-4868-bb92-8ed2ce788b12
